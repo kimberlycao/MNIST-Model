@@ -1,1 +1,1 @@
-# MNIST-model
+# MNIST Model
